@@ -1,3 +1,11 @@
 # linux_project_tutorial
 
-#cloned excited resportatory from github
+#cloned excited resportatory from git
+
+
+
+
+
+
+#######################################################
+####################################################################################
